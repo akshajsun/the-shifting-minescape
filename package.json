@@ -1,0 +1,19 @@
+{
+  "name": "the-shifting-minescape",
+  "version": "1.0.0",
+  "description": "RL-Powered Dynamic Maze Game with Mining Theme",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "phaser": "^3.70.0",
+    "@tensorflow/tfjs": "^4.15.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
+
