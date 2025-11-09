@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-gen-media-assets.s3.amazonaws.com/seedream_images/52ea5043-da85-47a2-a399-98dba3f281c8.png" alt="The Shifting Minescape Logo" width="350"/>
+  <img src="img.png" alt="The Shifting Minescape Logo" width="350"/>
 </p>
 
 <h1 align="center">The Shifting Minescape</h1>
