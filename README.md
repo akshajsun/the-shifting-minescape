@@ -59,13 +59,6 @@ Configure gameplay on-the-fly with smooth, animated sliders:
 - Stats tracking: completion time, path efficiency, win rates
 - Replay system to analyze bot strategies
 
-### 🎨 Ultra-Premium Visuals
-- **Mining Aesthetic:** Earthy browns, grays, rust reds, coal blacks
-- **Dynamic Lighting:** Torch glow, ore sparkles, bloom effects
-- **Particle System:** Dust clouds, crumbling debris, sliding particles
-- **Glassmorphism UI:** Frosted panels with soft shadows and glowing accents
-- **Smooth Animations:** 60+ FPS transitions, spring physics, easing curves
-- **Responsive Design:** Adapts to desktop, tablet, and mobile
 
 ---
 
@@ -192,28 +185,6 @@ src/
 
 ---
 
-## 🎨 Visual Design Principles
-
-### Color Palette
-- **Primary:** Deep browns (#2C2414), coal blacks (#1A1410)
-- **Accents:** Rust reds (#CC5500), metallic golds (#FFD700), ore blues (#4A90E2)
-- **Highlights:** Soft whites (#F5F5F5) for glow effects
-
-### Motion & Animation
-- Spring physics for all interactive elements
-- Cubic bezier easing for smooth transitions
-- 60+ FPS locked for responsive gameplay
-- Parallax backgrounds shift subtly with player movement
-
-### UI/UX Polish
-- Glassmorphism panels with frosted blur effect
-- Smooth count-up animations for score/time values
-- Micro-interactions: button press → compress, release → bounce
-- Tooltips fade in smoothly on hover
-- Real-time visual feedback for all slider adjustments
-
----
-
 ## 🧪 Testing & Performance
 
 - **Target FPS:** 60+ (stable on mid-range devices)
@@ -280,7 +251,7 @@ The game is optimized for web deployment:
 
 ## 📬 Contact & Support
 
-Have questions, bugs, or feature requests? Open an [issue](https://github.com/yourusername/the-shifting-minescape/issues) or reach out!
+Have questions, bugs, or feature requests? Open an [issue](https://github.com/akshajsun/the-shifting-minescape/issues) or reach out!
 
 ---
 
