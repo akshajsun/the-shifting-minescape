@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img.png" alt="The Shifting Minescape Logo" width="350"/>
+  <img src="img.png" alt="The Shifting Minescape Logo" width="800"/>
 </p>
 
 <h1 align="center">The Shifting Minescape</h1>
